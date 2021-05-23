@@ -91,9 +91,12 @@ overflow-x: hidden;
 /* Middle Container */
 
 .middleContainer{
+  float: none;
+  text-align: center;
+}
+.middleContainer h2,p{
   margin-top: 600px;
   margin-left: 100px;
-  text-align: center;
 }
 .Content h4{
   padding-top: 15px;
